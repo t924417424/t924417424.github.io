@@ -52,6 +52,24 @@
         
       </item>
       
+      <item>
+        <title>Go</title>
+        <link>https://t924417424.github.io/en/zh/go/</link>
+        <pubDate>Mon, 08 Mar 2021 14:37:02 +0800</pubDate>
+        <author>924417424@qq.com (OldCat)</author>
+        <atom:modified>Mon, 08 Mar 2021 14:37:02 +0800</atom:modified>
+        <guid>https://t924417424.github.io/en/zh/go/</guid>
+        <description>第一篇文章 go import 1 2 3 4 package main func main(){ print(&amp;#34;hello Go&amp;#34;) }</description>
+        
+        <dc:creator>OldCat</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
 
     
   </channel>
