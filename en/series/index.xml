@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on OldCat Blog</title>
-    <link>https://t924417424.github.io/en/series/</link>
+    <link>http://topic.tcp1.cn/en/series/</link>
     <description>Recent content in Series on OldCat Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>924417424@qq.com (OldCat)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://t924417424.github.io/en/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://topic.tcp1.cn/en/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       
