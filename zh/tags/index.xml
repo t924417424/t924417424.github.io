@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on OldCat Blog</title>
-    <link>http://topic.tcp1.cn/zh/tags/</link>
+    <link>https://t924417424.github.io/zh/tags/</link>
     <description>Recent content in Tags on OldCat Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,17 +16,17 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 08 Mar 2021 15:33:07 +0800</lastBuildDate>
     
-        <atom:link href="http://topic.tcp1.cn/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://t924417424.github.io/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>bytes</title>
-        <link>http://topic.tcp1.cn/zh/tags/bytes/</link>
+        <link>https://t924417424.github.io/zh/tags/bytes/</link>
         <pubDate>Mon, 08 Mar 2021 15:33:07 +0800</pubDate>
         <author>924417424@qq.com (OldCat)</author>
         
-        <guid>http://topic.tcp1.cn/zh/tags/bytes/</guid>
+        <guid>https://t924417424.github.io/zh/tags/bytes/</guid>
         <description></description>
         
         <dc:creator>OldCat</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>Go</title>
-        <link>http://topic.tcp1.cn/zh/tags/go/</link>
+        <link>https://t924417424.github.io/zh/tags/go/</link>
         <pubDate>Mon, 08 Mar 2021 15:33:07 +0800</pubDate>
         <author>924417424@qq.com (OldCat)</author>
         
-        <guid>http://topic.tcp1.cn/zh/tags/go/</guid>
+        <guid>https://t924417424.github.io/zh/tags/go/</guid>
         <description></description>
         
         <dc:creator>OldCat</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>string</title>
-        <link>http://topic.tcp1.cn/zh/tags/string/</link>
+        <link>https://t924417424.github.io/zh/tags/string/</link>
         <pubDate>Mon, 08 Mar 2021 15:33:07 +0800</pubDate>
         <author>924417424@qq.com (OldCat)</author>
         
-        <guid>http://topic.tcp1.cn/zh/tags/string/</guid>
+        <guid>https://t924417424.github.io/zh/tags/string/</guid>
         <description></description>
         
         <dc:creator>OldCat</dc:creator>
