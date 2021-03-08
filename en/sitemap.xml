@@ -3,58 +3,69 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/en/categories/</loc>
+    <loc>https://t924417424.github.io/en/zh/go/</loc>
+    <lastmod>2021-03-08T14:37:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://t924417424.github.io/en/</loc>
+    <lastmod>2021-03-08T14:37:02+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/categories/"
+                href="https://t924417424.github.io/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/"
+                href="https://t924417424.github.io/en/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/</loc>
+    <loc>https://t924417424.github.io/en/zh/</loc>
+    <lastmod>2021-03-08T14:37:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://t924417424.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/"
+                href="https://t924417424.github.io/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="https://t924417424.github.io/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/series/</loc>
+    <loc>https://t924417424.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/series/"
+                href="https://t924417424.github.io/zh/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/series/"
+                href="https://t924417424.github.io/en/series/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/</loc>
+    <loc>https://t924417424.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/tags/"
+                href="https://t924417424.github.io/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/"
+                href="https://t924417424.github.io/en/tags/"
                 />
   </url>
   

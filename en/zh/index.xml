@@ -6,47 +6,27 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>OldCat Blog</title>
-    <link>https://t924417424.github.io/zh/</link>
-    <description>Recent content on OldCat Blog</description>
+    <title>Zhs on OldCat Blog</title>
+    <link>https://t924417424.github.io/en/zh/</link>
+    <description>Recent content in Zhs on OldCat Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
+    <language>en</language>
     <managingEditor>924417424@qq.com (OldCat)</managingEditor>
     <webMaster>924417424@qq.com (OldCat)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 08 Mar 2021 14:37:02 +0800</lastBuildDate>
     
-        <atom:link href="https://t924417424.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://t924417424.github.io/en/zh/index.xml" rel="self" type="application/rss+xml" />
     
-      
-      
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
 
       
       <item>
         <title>Go</title>
-        <link>https://t924417424.github.io/zh/go/</link>
+        <link>https://t924417424.github.io/en/zh/go/</link>
         <pubDate>Mon, 08 Mar 2021 14:37:02 +0800</pubDate>
         <author>924417424@qq.com (OldCat)</author>
         <atom:modified>Mon, 08 Mar 2021 14:37:02 +0800</atom:modified>
-        <guid>https://t924417424.github.io/zh/go/</guid>
+        <guid>https://t924417424.github.io/en/zh/go/</guid>
         <description>第一篇文章 go import 1 2 3 4 package main func main(){ print(&amp;#34;hello Go&amp;#34;) }</description>
         
         <dc:creator>OldCat</dc:creator>

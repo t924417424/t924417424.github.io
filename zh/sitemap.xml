@@ -3,58 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/zh/categories/</loc>
+    <loc>https://t924417424.github.io/zh/go/</loc>
+    <lastmod>2021-03-08T14:37:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://t924417424.github.io/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/"
+                href="https://t924417424.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/categories/"
+                href="https://t924417424.github.io/zh/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/zh/</loc>
+    <loc>https://t924417424.github.io/zh/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="https://t924417424.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/"
+                href="https://t924417424.github.io/zh/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/zh/series/</loc>
+    <loc>https://t924417424.github.io/zh/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/series/"
+                href="https://t924417424.github.io/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/series/"
+                href="https://t924417424.github.io/zh/series/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/zh/tags/</loc>
+    <loc>https://t924417424.github.io/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/"
+                href="https://t924417424.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/tags/"
+                href="https://t924417424.github.io/zh/tags/"
                 />
   </url>
   
