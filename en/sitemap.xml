@@ -3,6 +3,91 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://t924417424.github.io/en/tags/bytes/</loc>
+    <lastmod>2021-03-08T15:33:07+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://t924417424.github.io/zh/tags/bytes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://t924417424.github.io/en/tags/bytes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://t924417424.github.io/en/tags/go/</loc>
+    <lastmod>2021-03-08T15:33:07+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://t924417424.github.io/zh/tags/go/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://t924417424.github.io/en/tags/go/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://t924417424.github.io/en/</loc>
+    <lastmod>2021-03-08T15:33:07+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://t924417424.github.io/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://t924417424.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://t924417424.github.io/en/tags/string/</loc>
+    <lastmod>2021-03-08T15:33:07+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://t924417424.github.io/zh/tags/string/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://t924417424.github.io/en/tags/string/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://t924417424.github.io/en/zh/string2bytes/</loc>
+    <lastmod>2021-03-08T15:33:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://t924417424.github.io/en/tags/</loc>
+    <lastmod>2021-03-08T15:33:07+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://t924417424.github.io/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://t924417424.github.io/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://t924417424.github.io/en/zh/</loc>
+    <lastmod>2021-03-08T15:33:07+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://t924417424.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -17,20 +102,6 @@
   </url>
   
   <url>
-    <loc>https://t924417424.github.io/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://t924417424.github.io/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://t924417424.github.io/en/"
-                />
-  </url>
-  
-  <url>
     <loc>https://t924417424.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -41,20 +112,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://t924417424.github.io/en/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://t924417424.github.io/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://t924417424.github.io/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://t924417424.github.io/en/tags/"
                 />
   </url>
   

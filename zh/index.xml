@@ -14,6 +14,7 @@
     <managingEditor>924417424@qq.com (OldCat)</managingEditor>
     <webMaster>924417424@qq.com (OldCat)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 08 Mar 2021 15:33:07 +0800</lastBuildDate>
     
         <atom:link href="https://t924417424.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
     
@@ -39,6 +40,38 @@
         
       
 
+      
+      <item>
+        <title>String2bytes</title>
+        <link>https://t924417424.github.io/zh/string2bytes/</link>
+        <pubDate>Mon, 08 Mar 2021 15:33:07 +0800</pubDate>
+        <author>924417424@qq.com (OldCat)</author>
+        <atom:modified>Mon, 08 Mar 2021 15:33:07 +0800</atom:modified>
+        <guid>https://t924417424.github.io/zh/string2bytes/</guid>
+        <description>string和[]byte的高效互转方法：Go：1.16 string和slice的底层数据结构 1 2 3 4 5 6 7 8 9 10 11 12 // string的数据结</description>
+        
+        <dc:creator>OldCat</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Go</category>
+            
+          
+            
+              <category>string</category>
+            
+          
+            
+              <category>bytes</category>
+            
+          
+        
+        
+        
+      </item>
       
 
     
