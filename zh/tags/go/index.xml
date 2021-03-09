@@ -6,19 +6,57 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Go on OldCat Blog</title>
+    <title>go on OldCat Blog</title>
     <link>https://t924417424.github.io/zh/tags/go/</link>
-    <description>Recent content in Go on OldCat Blog</description>
+    <description>Recent content in go on OldCat Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>924417424@qq.com (OldCat)</managingEditor>
     <webMaster>924417424@qq.com (OldCat)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 08 Mar 2021 15:33:07 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 09 Mar 2021 10:53:31 +0800</lastBuildDate>
     
         <atom:link href="https://t924417424.github.io/zh/tags/go/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>有符号类型的位运算</title>
+        <link>https://t924417424.github.io/zh/bit_learn1/</link>
+        <pubDate>Tue, 09 Mar 2021 10:53:31 +0800</pubDate>
+        <author>924417424@qq.com (OldCat)</author>
+        <atom:modified>Tue, 09 Mar 2021 10:53:31 +0800</atom:modified>
+        <guid>https://t924417424.github.io/zh/bit_learn1/</guid>
+        <description>概念介绍： 计算机中的信息都是以二进制形式表示的，数值有正负之分，计算机就用一个数的最高位存放符号(0为正，1为负)。这就是机器数的原码了。设</description>
+        
+        <dc:creator>OldCat</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>go</category>
+            
+          
+            
+              <category>位运算</category>
+            
+          
+            
+              <category>学习笔记</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>位运算</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>String2bytes</title>
