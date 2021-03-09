@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>myisam on OldCat Blog</title>
-    <link>https://t924417424.github.io/en/tags/myisam/</link>
+    <link>https://topic.tcp1.cn/en/tags/myisam/</link>
     <description>Recent content in myisam on OldCat Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 08 Mar 2021 16:52:04 +0800</lastBuildDate>
     
-        <atom:link href="https://t924417424.github.io/en/tags/myisam/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://topic.tcp1.cn/en/tags/myisam/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Mysql中两种常用引擎InnoDB和MyISAM区别简析</title>
-        <link>https://t924417424.github.io/en/zh/mysql_engine/</link>
+        <link>https://topic.tcp1.cn/en/zh/mysql_engine/</link>
         <pubDate>Mon, 08 Mar 2021 16:52:04 +0800</pubDate>
         <author>924417424@qq.com (OldCat)</author>
         <atom:modified>Mon, 08 Mar 2021 16:52:04 +0800</atom:modified>
-        <guid>https://t924417424.github.io/en/zh/mysql_engine/</guid>
+        <guid>https://topic.tcp1.cn/en/zh/mysql_engine/</guid>
         <description>Mysql两种常用的存储引擎 什么是InnoDB InnoDB是MySQL的另一个存储引擎，目前MySQL AB所发行新版的标准，被包含在所有二进</description>
         
         <dc:creator>OldCat</dc:creator>

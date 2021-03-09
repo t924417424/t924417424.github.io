@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on OldCat Blog</title>
-    <link>https://t924417424.github.io/zh/tags/</link>
+    <link>https://topic.tcp1.cn/zh/tags/</link>
     <description>Recent content in Tags on OldCat Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,17 +16,17 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 09 Mar 2021 10:53:31 +0800</lastBuildDate>
     
-        <atom:link href="https://t924417424.github.io/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://topic.tcp1.cn/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>go</title>
-        <link>https://t924417424.github.io/zh/tags/go/</link>
+        <link>https://topic.tcp1.cn/zh/tags/go/</link>
         <pubDate>Tue, 09 Mar 2021 10:53:31 +0800</pubDate>
         <author>924417424@qq.com (OldCat)</author>
         
-        <guid>https://t924417424.github.io/zh/tags/go/</guid>
+        <guid>https://topic.tcp1.cn/zh/tags/go/</guid>
         <description></description>
         
         <dc:creator>OldCat</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>位运算</title>
-        <link>https://t924417424.github.io/zh/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/</link>
+        <link>https://topic.tcp1.cn/zh/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/</link>
         <pubDate>Tue, 09 Mar 2021 10:53:31 +0800</pubDate>
         <author>924417424@qq.com (OldCat)</author>
         
-        <guid>https://t924417424.github.io/zh/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/</guid>
+        <guid>https://topic.tcp1.cn/zh/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/</guid>
         <description></description>
         
         <dc:creator>OldCat</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>学习笔记</title>
-        <link>https://t924417424.github.io/zh/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+        <link>https://topic.tcp1.cn/zh/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
         <pubDate>Tue, 09 Mar 2021 10:53:31 +0800</pubDate>
         <author>924417424@qq.com (OldCat)</author>
         
-        <guid>https://t924417424.github.io/zh/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
+        <guid>https://topic.tcp1.cn/zh/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
         <description></description>
         
         <dc:creator>OldCat</dc:creator>
@@ -76,11 +76,11 @@
       
       <item>
         <title>engine</title>
-        <link>https://t924417424.github.io/zh/tags/engine/</link>
+        <link>https://topic.tcp1.cn/zh/tags/engine/</link>
         <pubDate>Mon, 08 Mar 2021 16:52:04 +0800</pubDate>
         <author>924417424@qq.com (OldCat)</author>
         
-        <guid>https://t924417424.github.io/zh/tags/engine/</guid>
+        <guid>https://topic.tcp1.cn/zh/tags/engine/</guid>
         <description></description>
         
         <dc:creator>OldCat</dc:creator>
@@ -94,11 +94,11 @@
       
       <item>
         <title>innodb</title>
-        <link>https://t924417424.github.io/zh/tags/innodb/</link>
+        <link>https://topic.tcp1.cn/zh/tags/innodb/</link>
         <pubDate>Mon, 08 Mar 2021 16:52:04 +0800</pubDate>
         <author>924417424@qq.com (OldCat)</author>
         
-        <guid>https://t924417424.github.io/zh/tags/innodb/</guid>
+        <guid>https://topic.tcp1.cn/zh/tags/innodb/</guid>
         <description></description>
         
         <dc:creator>OldCat</dc:creator>
@@ -112,11 +112,11 @@
       
       <item>
         <title>myisam</title>
-        <link>https://t924417424.github.io/zh/tags/myisam/</link>
+        <link>https://topic.tcp1.cn/zh/tags/myisam/</link>
         <pubDate>Mon, 08 Mar 2021 16:52:04 +0800</pubDate>
         <author>924417424@qq.com (OldCat)</author>
         
-        <guid>https://t924417424.github.io/zh/tags/myisam/</guid>
+        <guid>https://topic.tcp1.cn/zh/tags/myisam/</guid>
         <description></description>
         
         <dc:creator>OldCat</dc:creator>
@@ -130,11 +130,11 @@
       
       <item>
         <title>mysql</title>
-        <link>https://t924417424.github.io/zh/tags/mysql/</link>
+        <link>https://topic.tcp1.cn/zh/tags/mysql/</link>
         <pubDate>Mon, 08 Mar 2021 16:52:04 +0800</pubDate>
         <author>924417424@qq.com (OldCat)</author>
         
-        <guid>https://t924417424.github.io/zh/tags/mysql/</guid>
+        <guid>https://topic.tcp1.cn/zh/tags/mysql/</guid>
         <description></description>
         
         <dc:creator>OldCat</dc:creator>
@@ -148,11 +148,11 @@
       
       <item>
         <title>bytes</title>
-        <link>https://t924417424.github.io/zh/tags/bytes/</link>
+        <link>https://topic.tcp1.cn/zh/tags/bytes/</link>
         <pubDate>Mon, 08 Mar 2021 15:33:07 +0800</pubDate>
         <author>924417424@qq.com (OldCat)</author>
         
-        <guid>https://t924417424.github.io/zh/tags/bytes/</guid>
+        <guid>https://topic.tcp1.cn/zh/tags/bytes/</guid>
         <description></description>
         
         <dc:creator>OldCat</dc:creator>
@@ -166,11 +166,11 @@
       
       <item>
         <title>string</title>
-        <link>https://t924417424.github.io/zh/tags/string/</link>
+        <link>https://topic.tcp1.cn/zh/tags/string/</link>
         <pubDate>Mon, 08 Mar 2021 15:33:07 +0800</pubDate>
         <author>924417424@qq.com (OldCat)</author>
         
-        <guid>https://t924417424.github.io/zh/tags/string/</guid>
+        <guid>https://topic.tcp1.cn/zh/tags/string/</guid>
         <description></description>
         
         <dc:creator>OldCat</dc:creator>

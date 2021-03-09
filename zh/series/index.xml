@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on OldCat Blog</title>
-    <link>https://t924417424.github.io/zh/series/</link>
+    <link>https://topic.tcp1.cn/zh/series/</link>
     <description>Recent content in Series on OldCat Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,17 +16,17 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 09 Mar 2021 10:53:31 +0800</lastBuildDate>
     
-        <atom:link href="https://t924417424.github.io/zh/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://topic.tcp1.cn/zh/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>位运算</title>
-        <link>https://t924417424.github.io/zh/series/%E4%BD%8D%E8%BF%90%E7%AE%97/</link>
+        <link>https://topic.tcp1.cn/zh/series/%E4%BD%8D%E8%BF%90%E7%AE%97/</link>
         <pubDate>Tue, 09 Mar 2021 10:53:31 +0800</pubDate>
         <author>924417424@qq.com (OldCat)</author>
         
-        <guid>https://t924417424.github.io/zh/series/%E4%BD%8D%E8%BF%90%E7%AE%97/</guid>
+        <guid>https://topic.tcp1.cn/zh/series/%E4%BD%8D%E8%BF%90%E7%AE%97/</guid>
         <description></description>
         
         <dc:creator>OldCat</dc:creator>
