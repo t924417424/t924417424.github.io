@@ -1,0 +1,65 @@
+<?xml-stylesheet type="text/xsl" href="https://blog.quickim.cn/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://blog.quickim.cn/categories/</loc>
+    <lastmod>2022-07-27T14:26:21+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.quickim.cn/categories/grpc/</loc>
+    <lastmod>2022-07-27T14:26:21+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.quickim.cn/</loc>
+    <lastmod>2022-07-27T14:26:21+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.quickim.cn/post/</loc>
+    <lastmod>2022-07-27T14:26:21+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.quickim.cn/categories/rust/</loc>
+    <lastmod>2022-07-27T14:26:21+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.quickim.cn/post/rust_tonic_learn1/</loc>
+    <lastmod>2022-07-27T14:26:21+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.quickim.cn/categories/tonic/</loc>
+    <lastmod>2022-07-27T14:26:21+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.quickim.cn/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.quickim.cn/search/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.1</priority>
+  </url>
+  
+</urlset>

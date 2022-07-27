@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on OldCat - 技术交流、学习、记录、分享</title>
+    <link>https://blog.quickim.cn/post/</link>
+    <description>Recent content in Posts on OldCat - 技术交流、学习、记录、分享</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Jul 2022 14:26:21 +0800</lastBuildDate><atom:link href="https://blog.quickim.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rust学习之tonic-一个grpc的rust实现</title>
+      <link>https://blog.quickim.cn/post/rust_tonic_learn1/</link>
+      <pubDate>Wed, 27 Jul 2022 14:26:21 +0800</pubDate>
+      
+      <guid>https://blog.quickim.cn/post/rust_tonic_learn1/</guid>
+      <description>tonic简介（引用自crates.io） A rust implementation of gRPC, a high performance, open source, general RPC framework that puts mobile and HTTP/2 first. tonic is a gRPC over HTTP/2 implementation focused on high performance, interoperability, and flexibility. This library was created to have first class support of async/await and to act as a</description>
+    </item>
+    
+  </channel>
+</rss>

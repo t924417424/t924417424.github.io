@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on OldCat - 技术交流、学习、记录、分享</title>
+    <link>https://blog.quickim.cn/tags/</link>
+    <description>Recent content in Tags on OldCat - 技术交流、学习、记录、分享</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://blog.quickim.cn/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
