@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Grpc on DBLAB</title><link>http://localhost:53411/tags/grpc/</link><description>Recent content in Grpc on DBLAB</description><generator>Hugo</generator><language>zh</language><lastBuildDate>Wed, 27 Jul 2022 14:26:21 +0800</lastBuildDate><atom:link href="http://localhost:53411/tags/grpc/index.xml" rel="self" type="application/rss+xml"/><item><title>Rust学习之tonic-一个grpc的rust实现</title><link>http://localhost:53411/posts/rust_tonic_learn1/</link><pubDate>Wed, 27 Jul 2022 14:26:21 +0800</pubDate><guid>http://localhost:53411/posts/rust_tonic_learn1/</guid><description>&lt;h2 id="tonic简介引用自cratesiohttpscratesiocratestonic">
+ tonic简介（引用自
+ &lt;a href="https://crates.io/crates/tonic">crates.io&lt;/a>）
+ &lt;a class="anchor" href="#tonic%e7%ae%80%e4%bb%8b%e5%bc%95%e7%94%a8%e8%87%aacratesiohttpscratesiocratestonic">#&lt;/a>
+&lt;/h2>
+&lt;blockquote>
+&lt;p>A rust implementation of gRPC, a high performance, open source, general RPC framework that puts mobile and HTTP/2 first.
+tonic is a gRPC over HTTP/2 implementation focused on high performance, interoperability, and flexibility. This library was created to have first class support of async/await and to act as a core building block for production systems written in Rust.&lt;/p></description></item></channel></rss>
