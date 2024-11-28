@@ -3,7 +3,7 @@ title: 首页
 type: docs
 ---
 
-<div align=center><img src="/logo.png"></div>
+<div align=center><img src="/logo.png" alt="logo"</div>
 
 # dblab.org
 
