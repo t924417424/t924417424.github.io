@@ -4,6 +4,7 @@ baseURL = 'https://example.com/'
 title = 'DBLAB'
 theme = 'hugo-book'
 
+enableRobotsTXT = true
 summaryLength = 15
 # Book configuration
 disablePathToLower = true
