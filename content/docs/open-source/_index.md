@@ -1,5 +1,5 @@
 ---
-title: "网络开源项目搜集"
+title: "开源项目"
 bookCollapseSection: true
 weight: 20
 ---
